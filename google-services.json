@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081473201293",
+    "project_id": "signinecologic-996d4",
+    "storage_bucket": "signinecologic-996d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081473201293:android:003c79b5c984a4be249ec4",
+        "android_client_info": {
+          "package_name": "com.example.ecologic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081473201293-g2ke4i77v27eupncdvvg41590lmc8pgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWxrmz-CCJn4Vy4Lu5OF-CSq8XkbWFFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081473201293-g2ke4i77v27eupncdvvg41590lmc8pgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
